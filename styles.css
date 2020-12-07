@@ -1,8 +1,6 @@
-.color{
-            background: LightSkyBlue;
-            color:black;
+li:nth-child(2n+1){
+            background-color: LightSkyBlue;
         }
-.color2{
-        background: Salmon;
-        color:Indigo;
+li:nth-child(2n){
+            background-color: PaleGreen;
         }
